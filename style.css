@@ -51,8 +51,9 @@ body {
 }
 
 .grid-person-profile > :nth-child(2) {
-  font-size: 2em;
+  font-size: 1.6em;
   line-height: 1.2;
+  font-weight: 500;
 }
 .grid-person-profile > :nth-child(n) {
   margin-bottom: 1em;
